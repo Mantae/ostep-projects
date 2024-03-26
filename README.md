@@ -25,3 +25,5 @@ for details.
 
 
 
+Compile : gcc -o wish wish.c -Wall -Werror
+run : ./test-wish.sh -v -c  
